@@ -37,7 +37,7 @@
 
 ## 📫 Let's Connect:
 - **Email:** shoaimmsp890@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** [Your LinkedIn Profile Link]https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bjo5q1BiJQ2iE3Z%2FKX1HvaA%3D%3D
 - **Upwork:** [Your Upwork Profile Link] (If applicable)
 - **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)
 
