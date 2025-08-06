@@ -1,5 +1,9 @@
 # shoaim 
 # 👋 Hi, I'm Md. Shoaim Hossain
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Learner](https://img.shields.io/badge/AI_Learner-00C853?style=for-the-badge)
+![Freelancer](https://img.shields.io/badge/Freelancer-FF5722?style=for-the-badge)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 🌱 Currently learning programming out of pure curiosity and passion.  
 🚀 Focused on Python, AI/ML, Ethical Hacking & Digital Marketing.  
