@@ -37,9 +37,9 @@
 
 ## 📫 Let's Connect:
 - **Email:** shoaimmsp890@gmail.com
-- **LinkedIn:**https://www.linkedin.com/public-profile
+- **LinkedIn:**linkedin.com/in/md-shoaim-hossain-7866052b2
 - **Upwork:** [Your Upwork Profile Link] (If applicable)
-- **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)
+- **GitHub:** [github.com/YourUsername](https://github.com/MdShoaim)
 
 ---
 
