@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Learner](https://img.shields.io/badge/AI%2FML%20Enthusiast-00C853?style=for-the-badge)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-FF5722?style=for-the-badge)
 ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
 ---
